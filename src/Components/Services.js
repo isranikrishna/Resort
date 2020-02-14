@@ -14,19 +14,19 @@ export default class Services extends Component {
             },
             {
                 icon: <FaHiking/>,
-                title: "free coctails",
+                title: "Endless hiking",
                 info: ' block of text motherfucker '
 
             },
             {
                 icon: <FaShuttleVan/>,
-                title: "free coctails",
+                title: "free Shuttle",
                 info: ' block of text motherfucker '
 
             },
             {
                 icon: <FaBeer/>,
-                title: "free coctails",
+                title: "Strongest Beer",
                 info: ' block of text motherfucker '
 
             }

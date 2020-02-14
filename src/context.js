@@ -34,7 +34,7 @@ const RoomContext = React.createContext();
             return tempItems ;
      }
 
-     getRoom = slug => {
+     getRoom = (slug) => {
          let tempRooms = [...this.state.rooms] ;
          const room = tempRooms.find(room => room.slug === slug );
          return room;
