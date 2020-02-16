@@ -9,25 +9,25 @@ export default class Services extends Component {
             {
                 icon: <FaCocktail/>,
                 title: "free coctails",
-                info: ' block of text motherfucker '
+                info: '  '
 
             },
             {
                 icon: <FaHiking/>,
                 title: "Endless hiking",
-                info: ' block of text motherfucker '
+                info: ' '
 
             },
             {
                 icon: <FaShuttleVan/>,
                 title: "free Shuttle",
-                info: ' block of text motherfucker '
+                info: '  '
 
             },
             {
                 icon: <FaBeer/>,
                 title: "Strongest Beer",
-                info: ' block of text motherfucker '
+                info: ' '
 
             }
         ]
